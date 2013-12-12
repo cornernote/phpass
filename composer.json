@@ -1,0 +1,7 @@
+{
+    "name": "mrphp/phpass",
+    "description": "Portable PHP password hashing framework",
+    "type": "library",
+    "keywords": ["phpass","mrphp"],
+    "minimum-stability": "dev"
+}
