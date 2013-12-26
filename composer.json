@@ -1,5 +1,5 @@
 {
-    "name": "mrphp/phpass",
+    "name": "cornernote/phpass",
     "description": "Portable PHP password hashing framework",
     "type": "library",
     "keywords": ["phpass","mrphp"],
